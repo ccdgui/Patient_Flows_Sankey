@@ -3,13 +3,10 @@
 
 Using Plotly
 
-###Overview 
-This project is about modeling patient flows between units of a hospital using a Sankey diagram. Sankey diagrams are flow diagrams, in which the width of the links is shown proportionally to the flow quantity. Sankey diagrams put a visual emphasis on transfers or flows within a system. This diagram illustrates the complexity of patient flows between various units of a large hospital. 
+#### Overview 
+This project is about modeling patient flows between units of a hospital using a Sankey diagram. Sankey diagrams are flow diagrams, in which the width of the links is shown proportionally to the flow quantity. Sankey diagrams put a visual emphasis on transfers or flows within a system. This diagram illustrates the complexity of patient flows between various units of a large hospital. With  better patient flow, a hospital can save money and boost patient and provider satisfaction.
 
-By improving patient flow, a hospital can save money on staffing, decrease wait times and boost patient and provider satisfaction.
-
-
-
+#### Ouput 
 
 
 
