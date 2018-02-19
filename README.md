@@ -10,14 +10,9 @@ This project is about modeling patient flows between units of a hospital using a
 
 Sankey diagram with Plotly: 
 
-Output: 
-
-
 <img width="995" alt="screen shot 2018-02-19 at 10 12 59 am" src="https://user-images.githubusercontent.com/25650135/36398595-d7787a8c-1595-11e8-8f2c-b569b6e715b6.png">
-
-
 
 
 Script: 
 
-The Sankey.py script takes query form 
+The sankey.py is the script to parse data from hospical flow record to create a graph structure with source-target pairs and nodes. 
