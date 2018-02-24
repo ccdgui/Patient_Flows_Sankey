@@ -13,6 +13,8 @@ Sankey diagram with Plotly:
 <img width="995" alt="screen shot 2018-02-19 at 10 12 59 am" src="https://user-images.githubusercontent.com/25650135/36398595-d7787a8c-1595-11e8-8f2c-b569b6e715b6.png">
 
 
-Script: 
+#### Script Outline  
 
-The sankey.py is the script to parse data from hospical flow record to create a graph structure with source-target pairs and nodes. 
+sankey.py formats data from hospical records to create a graph structure with source-target pairs and nodes which is used to create a visualization. 
+
+
